@@ -36,9 +36,4 @@ You can check out the live demo of the system here: [Live Demo - HireSense AI](h
 - Python 3.8+  
 - pip (Python package manager)  
 
-### 🔹 Steps  
-```bash
-git clone https://github.com/Yashrajgithub/HireSense-AI.git
-cd HireSense-AI  
-pip install -r requirements.txt  
-streamlit run app.py  
+
